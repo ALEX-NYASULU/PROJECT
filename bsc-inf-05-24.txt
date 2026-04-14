@@ -1,0 +1,17 @@
+* commit 4e03bcae6404684e845035b6bdc4946342743d3e
+| Author: AlexNyaslu <bsc-inf-05-24@unima.ac.mw>
+| Date:   Thu Mar 5 21:07:11 2026 +0200
+| 
+|     add .gitignore
+| 
+* commit 22327748d47cbbd5371f531afefd9ed8951a08d7
+| Author: AlexNyaslu <bsc-inf-05-24@unima.ac.mw>
+| Date:   Thu Mar 5 20:30:12 2026 +0200
+| 
+|     Initial commit: add homepge HTML structure
+| 
+* commit 1b532813dc2ae9ecc4fb69e15a00628f6d50c2e9
+  Author: AlexNyaslu <bsc-inf-05-24@unima.ac.mw>
+  Date:   Thu Mar 5 20:22:45 2026 +0200
+  
+      Initial commit: add homepge HTML structure
